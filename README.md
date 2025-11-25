@@ -12,4 +12,8 @@ $ pkg install python
 
 $ pkg install git
 
-$ 
+$ git clone https://github.com/whizzy28639/WhatsApp-Ban-Tools.git
+
+cd WhatsApp-Ban-Tools
+
+python ban.py
